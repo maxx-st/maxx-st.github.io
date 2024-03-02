@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "gustl.development.flatfind",
+      "sha256_cert_fingerprints":
+      ["69:FF:B1:CA:06:2B:41:A6:01:43:C6:29:A2:56:E1:31:0A:C8:EB:96:00:70:EA:4B:45:1B:D3:CC:B7:59:02:7D"]
+    }
+  }]
